@@ -15,5 +15,6 @@ def sort_array_char_count(array)
     elsif a.size > b.size
       1
     end
+  end
 
 end
